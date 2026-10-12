@@ -1,0 +1,8 @@
+
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+rehab_data/
+.env
